@@ -2,8 +2,9 @@
 @tailwind components;
 @tailwind utilities;
 
-.root{
-  width:382px
+body{
+  width:382px;
+  height:550px;
 }
 /* body{
   background-color: black;
